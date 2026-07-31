@@ -1,0 +1,6 @@
+{
+  "name": "Escáner Inteligente de Bloqueos Metabólicos",
+  "description": "Landing page de alta conversión para el Escáner Inteligente de Bloqueos Metabólicos™",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
